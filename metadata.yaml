@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '43344'
     url: http://www.gutenberg.org/2009/agents/43344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45542#Eighteen-Months-in-the-War-ZoneThe-Record-of-a-Woman-s-Work-on-the-Western-Front
 gutenberg_bookshelf:
 - Women's Travel Journals
 - World War I
